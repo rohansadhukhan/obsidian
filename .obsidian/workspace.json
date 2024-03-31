@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "76136c01e7533bdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cb047ab33e2b0aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6739513fd65102a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2bed8c0325b47ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "f570fcea9940e672",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88397ee9d191c5b3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0b5850682f5f40de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc713fea4813c100",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293.5
+  },
+  "right": {
+    "id": "1a4a75d444553c75",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5dcc5d5ba750e39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35f67c7375879fe3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0d1f805d1863d317",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "eea3076bb41fbaa0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled 7.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e6edb643eb3320ec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled 7.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "096387b3b41d403b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled 7.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-day-planner:Timeline": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "card-board:CardBoard": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false
+    }
+  },
+  "active": "6739513fd65102a6",
+  "lastOpenFiles": [
+    "Design Vending Machine.md",
+    "Templates/Default.md",
+    "Untitled 7.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled 6.md",
+    "Untitled 5.md",
+    "Templates/Tech Article Template.md",
+    "Software Engineering/Java/Java Memory Management and Garbage Collection.md",
+    "Untitled 4.md",
+    "Untitled 3.md",
+    "Unsupervised Learning.md",
+    "Untitled.md",
+    "manifold_vs_euclidean.jpeg",
+    "Life of Software Engineer.md",
+    "kmeans.png",
+    "Kanban.md",
+    "Drools.md",
+    "Data Visualisation and Non Linear Dimensionality Reduction.md",
+    "Convolution Layer and Back Propagation.md",
+    "A Distributed Messaging System for Log Processing.md",
+    "Untitled.canvas",
+    "Excalidraw/jdk.md",
+    "Excalidraw/jre.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-31 22.40.48.excalidraw.md",
+    "Excalidraw/jvm.excalidraw.md",
+    "Excalidraw/memory_management.excalidraw.md",
+    "AI ML/Regression Model/Linear Regression.md",
+    "Templates/Design Document.md",
+    "08 -",
+    "07 -",
+    "06 -",
+    "05 -",
+    "04 - Archive",
+    "03 - Resources",
+    "02 - Areas",
+    "01 - Projects",
+    "Software Engineering/System Design/Untitled",
+    "Software Engineering/complete-vpc.png",
+    "Software Engineering/vpc-and-subnets.png",
+    "Excalidraw",
+    "AI ML/Decision Tree/Fruits_3.png",
+    "AI ML/Decision Tree/Fruits_2.png",
+    "AI ML/Decision Tree/Fruits_1.png",
+    "Untitled 1.canvas",
+    "Software Engineering/System Design/Designs/Live Streaming Application/canvas/p1.canvas"
+  ]
+}

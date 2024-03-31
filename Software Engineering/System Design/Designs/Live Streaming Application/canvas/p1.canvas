@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"f857b8d8f1f4c39a","type":"text","text":"**Product Requirement**","x":-760,"y":-40,"width":220,"height":60},
+		{"id":"87fb70b6d136fcd3","type":"text","text":"**Feature / Abstract Concept**","x":-480,"y":-40,"width":260,"height":60},
+		{"id":"5a2bf3a0b32f3379","type":"text","text":"**Objects**","x":80,"y":-40,"width":120,"height":60},
+		{"id":"4e76881ff757f96d","type":"text","text":"**Data Definitions**","x":-170,"y":-40,"width":190,"height":60},
+		{"id":"13bd3301b8cee6a8","type":"text","text":"**Database**","x":260,"y":-40,"width":140,"height":60}
+	],
+	"edges":[
+		{"id":"b8d29bb6043767d4","fromNode":"f857b8d8f1f4c39a","fromSide":"right","toNode":"87fb70b6d136fcd3","toSide":"left"},
+		{"id":"d2e29589a13bca94","fromNode":"87fb70b6d136fcd3","fromSide":"right","toNode":"4e76881ff757f96d","toSide":"left"},
+		{"id":"b23ff91db67c6a7a","fromNode":"4e76881ff757f96d","fromSide":"right","toNode":"5a2bf3a0b32f3379","toSide":"left"},
+		{"id":"92379d29ba683a5c","fromNode":"5a2bf3a0b32f3379","fromSide":"right","toNode":"13bd3301b8cee6a8","toSide":"left"}
+	]
+}

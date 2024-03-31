@@ -1,0 +1,10 @@
+{
+  "server_url": "",
+  "header": "",
+  "debounce": 2,
+  "localJar": "/Users/rohansd/Downloads/Software/plantuml-1.2024.3-javadoc.jar",
+  "javaPath": "/Library/Java/JavaVirtualMachines/openjdk-11.jdk/Contents/Home",
+  "dotPath": "dot",
+  "defaultProcessor": "png",
+  "cache": 360
+}
